@@ -34,6 +34,7 @@ The following are loggers we support:
     NeptuneLogger
     TensorBoardLogger
     WandbLogger
+    TrackioLogger
 
 The above loggers will normally plot an additional chart (**global_step VS epoch**). Depending on the loggers you use, there might be some additional charts too.
 
